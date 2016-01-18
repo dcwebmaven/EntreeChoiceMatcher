@@ -1,5 +1,5 @@
 # EntreeChoiceMatcher
-This project matches a beverage with a person's entree choice using code developed in the Dinner Entree Receipt project.
+This PHP project matches a beverage with a person's entree choice using code developed in the Dinner Entree Receipt project.
 
 Here is a description of the specs for the project:
 
