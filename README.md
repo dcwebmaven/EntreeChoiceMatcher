@@ -3,7 +3,7 @@ This project matches a beverage with a person's entree choice using code develop
 
 Here is a description of the specs for the project:
 
-Convert the receipt project from Lesson 3 to use a function called
+Convert the receipt project from the Dinner Entree Receipt project to use a function called
 
 select_beverage($dinner)
 
